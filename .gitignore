@@ -1,0 +1,8 @@
+*.log
+*~
+*.bak
+*.out
+*.swp
+configs/dev/config.json
+node_modules
+logs
