@@ -30,7 +30,7 @@
     tasks
       example.js      // 样例
 
-本系统基于[express](https://github.com/strongloop/express) 4.x，github地址：[链接](https://github.com/roychen-7/task-manager)。
+本系统基于[express](https://github.com/strongloop/express) 4.x。
 
 #### 功能介绍
 
